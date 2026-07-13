@@ -2,6 +2,8 @@
 
 **Cardiac Volumetric Mesh Reconstruction via Covariance-Guided Graph Deformation**
 
+The full code and mesh templates will be released after the paper is published
+
 > From 3D CTA volumes to simulation-ready tetrahedral heart meshes, **HeartVolMesh** combines covariance-guided graph deformation with template-driven volumetric warping to preserve topology, correspondence, and downstream simulation utility.
 >
 > **Status:** The manuscript is currently under peer review. This repository currently provides a project overview only, and **the code will be released after the paper is published**.
