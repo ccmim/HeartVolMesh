@@ -12,7 +12,7 @@
 
 # HeartVolMesh
 
-The full code and mesh templates will be released after the paper is published
+The full code and mesh templates was released in above links
 
 **Cardiac Volumetric Mesh Reconstruction via Covariance-Guided Graph Deformation**
 
